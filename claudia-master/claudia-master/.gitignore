@@ -1,0 +1,7 @@
+buildresult.txt
+node_modules
+.env
+SpecRunner.html
+.grunt
+*.log
+.DS_Store

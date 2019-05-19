@@ -1,0 +1,14 @@
+{
+  "name": "enquirer-examples",
+  "devDependencies": {
+    "ansi-colors": "^3.2.1",
+    "cli-spinners": "^1.3.1",
+    "data-store": "^3.1.0",
+    "enquirer": "file:..",
+    "semver": "^5.6.0",
+    "yosay": "^2.0.2"
+  },
+  "dependencies": {
+    "prompt-rawlist": "^2.0.1"
+  }
+}

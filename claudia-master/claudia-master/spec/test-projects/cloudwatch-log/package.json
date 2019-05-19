@@ -1,0 +1,11 @@
+{
+  "name": "cloudwatch-log",
+  "private": true,
+  "version": "1.0.0",
+  "files": [
+    "main.js"
+  ],
+  "dependencies": {
+    "aws-sdk": "^2.2.47"
+  }
+}
